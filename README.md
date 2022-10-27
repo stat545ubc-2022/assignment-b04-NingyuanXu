@@ -1,1 +1,1 @@
-
+This repository is about STAT 545B Assignment 4, option A - Strings and functional programming in R. There will be two .rmd files, one for each exercise. Exercise 1 is about the most common words in a book. Exercise 2 is about converting words to a version of Pig Latin. To run the files, go to the .rmd files and run the code chunks. The .rmd files are also knitted to .md formats for viewing. 
